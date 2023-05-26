@@ -1,7 +1,7 @@
 # Feature Decomposition for Reducing Negative Transfer: a Novel Multi-task Learning Model for Recommender System
 
 ## model architecture
-![hustlin_erd](./model_architecture.pdf)
+![hustlin_erd](./model_architecture.png)
 
 ## Bibtex:
 ```sh
