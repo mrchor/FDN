@@ -6,7 +6,7 @@
 ## Bibtex:
 ```sh
 @article{zhou2023feature,
-  title={Feature Decomposition for Reducing Negative Transfer: A Novel Multi-task Learning Method for Recommender System},
+  title={Feature Decomposition for Reducing Negative Transfer: A Novel Multi-task Learning Method for Recommender System (Student Abstract)},
   author={Zhou, Jie and Yu, Qian and Luo, Chuan and Zhang, Jing},
   year={2023},
 }
